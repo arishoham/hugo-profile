@@ -5,7 +5,7 @@ theme: "./.."
 relativeURLs: true
 
 # Google Analytics 4
-googleAnalyticsID = "G-6XMVC625JV"
+googleAnalyticsID: "G-6XMVC625JV"
 #googleanalytics: UA-213727688-1
 disqusShortname:
 Paginate: 3
