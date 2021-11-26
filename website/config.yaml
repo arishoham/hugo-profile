@@ -60,7 +60,7 @@ params:
   disable_experience: false
   experience:
     - company: "STRATUS Simulation Center"
-      id: "Stratus"   // use this, when you want to change the id(used for navigation)
+      # id: "Stratus"   // use this, when you want to change the id(used for navigation)
       role: "Simulation Specialist"
       startdate: Nov 2020
       enddate: present
@@ -68,7 +68,7 @@ params:
         - point: Organize and run medical simulation.
         - point: Build and implement complex training models. 
     - company: "Hagen & Company"
-      id: "Hagen-and-company" // use this, when you want to change the id(used for navigation)
+      # id: "Hagen-and-company" // use this, when you want to change the id(used for navigation)
       role: "Engineering and management Consultant"
       startdate: Dec 2019
       enddate: Jun 2020
@@ -76,7 +76,7 @@ params:
         - point: Coordinated a 10-35% increase in productivity.
         - point: Led and motivated multi-disciplinary teams in manufacturing.
     - company: "BMW Manufacturing"
-      id: "Bmw" // use this, when you want to change the id(used for navigation)
+      # id: "Bmw" // use this, when you want to change the id(used for navigation)
       role: "Implementation engineer"
       startdate: Aug 2016
       enddate: May 2018
