@@ -4,7 +4,7 @@ title: "Ari Shoham"
 theme: "./.."
 relativeURLs: true
 
-googleanalytics: UA-213727688-1
+googleanalytics: 'UA-213727688-1'
 disqusShortname:
 Paginate: 3
 markup:
