@@ -68,7 +68,7 @@ params:
         - point: Organize and run medical simulation.
         - point: Build and implement complex training models. 
     - company: "Hagen Company"
-      id: "Hagen-and-company" // use this, when you want to change the id(used for navigation)
+      # id: "Hagen-and-company" // use this, when you want to change the id(used for navigation)
       role: "Engineering and management Consultant"
       startdate: Dec 2019
       enddate: Jun 2020
