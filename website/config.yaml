@@ -24,10 +24,10 @@ params:
   favicon: "/images/fav.png"
   description: "Ari Shoham"
 
-  # # Navbar Menus
-  # customMenus:
-  #   - name: "Blog"
-  #     Url: "/blog"
+  # Navbar Menus
+  customMenus:
+    - name: "Resume"
+      Url: "/resume.pdf"
 
   # home
   disable_home: false
