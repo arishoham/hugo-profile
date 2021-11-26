@@ -24,10 +24,10 @@ params:
   favicon: "/images/fav.png"
   description: "This is a test"
 
-  # Navbar Menus
-  customMenus:
-    - name: "Blog"
-      Url: "/blog"
+  # # Navbar Menus
+  # customMenus:
+  #   - name: "Blog"
+  #     Url: "/blog"
 
   # home
   disable_home: false
@@ -140,7 +140,7 @@ params:
 
   # Footer
   socialiconfooter: true
-  recentposts: true
+  recentposts: false
 
   # Blog
   showdescription: false
