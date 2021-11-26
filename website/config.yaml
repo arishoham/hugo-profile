@@ -32,76 +32,76 @@ params:
   # home
   disable_home: false
   profile_image: "/images/profile.png"
-  name: "Example name"
+  name: "Ari Shoham"
   namecolor: ffc107
-  profession: "Profession"
-  github: "https://github.com"
+  profession: "Engineer"
+  github: "https://github.com/arishoham"
   gitlab: "https://gitlab.com"
-  linkedin: "https://linkedin.com"
-  twitter: "https://twitter.com/"
-  instagram: "https://instagram.com/"
-  facebook: "https://facebook.com"
+  linkedin: "https://linkedin.com/arishoham"
+  twitter: "https://twitter.com/arishoham"
+  instagram: "https://instagram.com/arishoham"
+  facebook: "https://facebook.com/arishoham"
 
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Profile, a passionate web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-  descripe_l2_person: "This is a example template for about section. You can find my works [here](#projects)"
+  descripe_l1_person: "Hi, I'm Ari Shoham, a passionate Engineer. I like to solve problems."
+  descripe_l2_person: "You can find my works [here](#projects)"
   skills:
-    - name: CSS
+    - name: Javascript
       percentage: 90
-    - name: Django
+    - name: HTML
       percentage: 85
-    - name: Hugo
+    - name: CSS
       percentage: 80
-    - name: React JS
-      percentage: 70
+    - name: Friendliness
+      percentage: 75
 
   # Experience
   disable_experience: false
   experience:
-    - company: "Google"
+    - company: "STRATUS Simulation Center"
       # id: "google-developer"   // use this, when you want to change the id(used for navigation)
-      role: "Software developer"
-      startdate: Feb 2021
+      role: "Simulation Specialist"
+      startdate: Nov 2020
       enddate: present
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
-    - company: "Facebook"
+        - point: Organize and run medical simulation.
+        - point: Build and implement complex training models. 
+    - company: "Hagen & Company"
       # id: "facebook-developer" // use this, when you want to change the id(used for navigation)
-      role: "Fullstack developer"
-      startdate: Mar 2020
-      enddate: Dec 2020
+      role: "Engineering and management Consultant"
+      startdate: Dec 2019
+      enddate: Jun 2020
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
-    - company: "Amazon"
+        - point: Coordinated a 10-35% increase in productivity.
+        - point: Led and motivated multi-disciplinary teams in manufacturing.
+    - company: "BMW Manufacturing"
       # id: "amazon-developer" // use this, when you want to change the id(used for navigation)
-      role: "Fullstack developer"
-      startdate: Feb 2019
-      enddate: Jan 2020
+      role: "Implementation engineer"
+      startdate: Aug 2016
+      enddate: May 2018
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
+        - point: Defined requirements for steering wheel vibration measurements.
+        - point: Developed VBA programs to automate processes.
 
   # Education
   disable_education: false
   education:
-    - degree: "B.tech"
-      branch: "Information Technology"
-      university: "Example university"
-      startedyear: "2013"
-      graduation: "2018"
-    - degree: "Degree"
-      branch: "Branch"
-      university: "Example university"
-      startedyear: "year"
-      graduation: "year"
-    - degree: "Degree"
-      branch: "Branch"
-      university: "Example university"
-      startedyear: "year"
-      graduation: "year"
+    - degree: "Bachelor"
+      branch: "Mechanical Engineering"
+      university: "Clemson"
+      startedyear: "2014"
+      graduation: "2019"
+    # - degree: "Degree"
+    #   branch: "Branch"
+    #   university: "Example university"
+    #   startedyear: "year"
+    #   graduation: "year"
+    # - degree: "Degree"
+    #   branch: "Branch"
+    #   university: "Example university"
+    #   startedyear: "year"
+    #   graduation: "year"
 
   # Projects
   disable_projects: false
@@ -113,7 +113,7 @@ params:
       description: "Description of project"
 
   # Achievements
-  disable_achievements: false
+  disable_achievements: true
   achievements:
     - title: Competition winner
       description: We are developed a product which can help others.
@@ -133,7 +133,7 @@ params:
   # Contact
   disable_contact: false
   contact_content: My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!
-  email: "example@mail.com"
+  email: "arishoham@gmail.com"
 
   # Footer
   socialiconfooter: true
@@ -141,4 +141,4 @@ params:
 
   # Blog
   showdescription: false
-  tweet: true
+  tweet: false
