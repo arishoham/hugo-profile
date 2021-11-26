@@ -62,6 +62,7 @@ params:
     - company: "STRATUS Simulation Center"
       # id: "Stratus"   // use this, when you want to change the id(used for navigation)
       role: "Simulation Specialist"
+      id: "stratus"
       startdate: Nov 2020
       enddate: present
       featuredpoints:
@@ -70,6 +71,7 @@ params:
     - company: "Hagen and Company"
       # id: "Hagen-and-company" // use this, when you want to change the id(used for navigation)
       role: "Engineering and management Consultant"
+      id: "handco"
       startdate: Dec 2019
       enddate: Jun 2020
       featuredpoints:
@@ -78,6 +80,7 @@ params:
     - company: "BMW Manufacturing"
       # id: "Bmw" // use this, when you want to change the id(used for navigation)
       role: "Implementation engineer"
+      id: "bmw"
       startdate: Aug 2016
       enddate: May 2018
       featuredpoints:
