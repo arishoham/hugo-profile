@@ -22,7 +22,7 @@ params:
   customCSS: false
 
   favicon: "/images/fav.png"
-  description: "This is a test"
+  description: "Ari Shoham"
 
   # # Navbar Menus
   # customMenus:
