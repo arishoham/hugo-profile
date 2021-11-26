@@ -37,7 +37,7 @@ params:
   profession: "Engineer"
   github: "https://github.com/arishoham"
   # gitlab: "https://gitlab.com"
-  linkedin: "https://linkedin.com/arishoham"
+  linkedin: "https://www.linkedin.com/in/ari-shoham/"
   twitter: "https://twitter.com/arishoham"
   instagram: "https://instagram.com/arishoham"
   facebook: "https://facebook.com/arishoham"
@@ -45,7 +45,7 @@ params:
   # About
   disable_about: false
   descripe_l1_person: "Hi, I'm Ari Shoham, a passionate Engineer. I like to solve problems."
-  descripe_l2_person: "You can find my works [here](#projects)"
+  # descripe_l2_person: "You can find my works [here](#projects)"
   skills:
     - name: Javascript
       percentage: 90
@@ -54,7 +54,7 @@ params:
     - name: CSS
       percentage: 80
     - name: Friendliness
-      percentage: 75
+      percentage: 95
 
   # Experience
   disable_experience: false
