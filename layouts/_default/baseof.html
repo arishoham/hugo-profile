@@ -2,17 +2,6 @@
 <html lang="en">
 
 <head>
-
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-0HB330P3KB"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-0HB330P3KB');
-  </script>
-
   {{ if eq .Site.Params.version 1 }}
   {{- partial "sections/v1/head.html" . -}}
   <link href="/css/bootstrap.min.css" rel="stylesheet">
