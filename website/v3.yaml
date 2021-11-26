@@ -1,6 +1,6 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "arishoham.com"
 languageCode: "en-us"
-title: "Ari Shoham"
+title: "Hugo-profile"
 theme: "./.."
 relativeURLs: true
 

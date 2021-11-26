@@ -1,6 +1,6 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://arishoham.com"
 languageCode: "en-us"
-title: "Hugo-profile"
+title: "Ari Shoham"
 theme: "./.."
 relativeURLs: true
 
@@ -22,7 +22,7 @@ params:
   customCSS: false
 
   favicon: "/images/fav.png"
-  description: "A high performance hugo theme for personal portfolio and blog."
+  description: "This is a test"
 
   # Navbar Menus
   customMenus:
