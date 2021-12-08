@@ -48,13 +48,13 @@ params:
   # descripe_l2_person: "You can find my works [here](#projects)"
   skills:
     - name: Javascript
-      percentage: 90
+      percentage: 95
     - name: HTML
       percentage: 85
     - name: CSS
       percentage: 80
-    - name: Friendliness
-      percentage: 95
+    - name: React.js
+      percentage: 80
 
   # Experience
   disable_experience: false
